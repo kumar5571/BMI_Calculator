@@ -32,5 +32,5 @@ It allows users to input their **age, gender, height, and weight** with flexible
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/bmi-calculator-flask.git
+   git clone https://github.com/<kumar5571>/bmi-calculator-flask.git
    cd bmi-calculator-flask
